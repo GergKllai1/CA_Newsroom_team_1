@@ -20,6 +20,7 @@ gem 'launchy'
 gem 'rails-i18n'
 gem 'stripe-rails'
 gem 'aws-sdk-s3'
+gem 'redcarpet'
 
 group :development, :test do
   gem 'factory_bot_rails'
